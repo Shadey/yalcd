@@ -1,5 +1,5 @@
-# Yalcd - Yet Another Lainchan Downloader Clojure edition
-
+# Yalcd - Yet Another Lainchan Downloader 
+## Clojure Editon
 Downloads a lainchan thread to a folder
 
 
