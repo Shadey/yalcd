@@ -31,6 +31,6 @@
                              (write-file abs-path url)))))))
                        
 (defn -main
-  "I don't do a whole lot ... yet."
+  "Starts the download"
   [& args]
   (download (first args)))
